@@ -1,0 +1,18 @@
+{
+    "experiences": [
+        {
+            "company": "Líder Aviação",
+            "description": "Desenvolvedor frontend responsável por desenvolver novas interfaces dentro de um sistema de gestão e locação de aeronaves ainda em desenvolvimento. As principais tecnologias utilizadas são: TypeScript, React, Next Js e antd.",
+            "start": "abr de 2022",
+            "end": "dez de 2023",
+            "linkedin": "https://www.linkedin.com/company/lideraviacao/"
+        },
+        {
+            "company": "Voor Entretenimento",
+            "description": "Desenvolvedor encarregado de desenvolver interfaces em um aplicativo de vendas de ingressos. As principais tecnologias utilizadas são: Flutter, React Native ",
+            "start": "mai de 2021 ",
+            "end": "ago de 2022",
+            "linkedin": "https://www.linkedin.com/company/voor/"
+        }
+    ]
+}

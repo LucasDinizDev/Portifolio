@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "projectType": "Front-end",
+            "projectName": "Portfólio",
+            "projectRepo": "https://github.com/LucasDinizDev/Portifolio",
+            "projectUrl": "",
+            "status": "Em andamento",
+            "projectImage": "https://cdn.discordapp.com/attachments/969419278526844949/1224207990769582120/image.png?ex=661ca789&is=660a3289&hm=77c51af61e579b6c5043358e0203208546903733858a9351f4d5bb3add402128&",
+            "projectDescription": "Projeto criado para apresentar meus trabalhos e habilidades aos visitantes interessados em conhecer mais sobre mim."
+        },
+        {
+            "projectType": "Back-end",
+            "projectName": "Programa Progenitor",
+            "projectRepo": "https://github.com/LucasDinizDev/Programa-Progenitor",
+            "projectUrl": "",
+            "status": "Concluído",
+            "projectImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqOy6iut9WU-FlxL3Nb_AEP0N67WDipQdl32We6JMeA&s",
+            "projectDescription": "Este é um programa Python que utiliza a biblioteca PySWIP para fazer consultas genealógicas em uma base de conhecimento em Prolog. O programa permite consultar informações sobre pais, mães, irmãos, tios/tias e adicionar novos membros à árvore genealógica. "
+        },
+        {
+            "projectType": "Back-end",
+            "projectName": "Consulta de Músicos ",
+            "projectRepo": "https://github.com/LucasDinizDev/Musicos-Prolog",
+            "projectUrl": "",
+            "status": "Concluído",
+            "projectImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqOy6iut9WU-FlxL3Nb_AEP0N67WDipQdl32We6JMeA&s",
+            "projectDescription": "Este é um programa Python que utiliza a biblioteca PySWIP para consultar informações sobre músicos em uma base de dados genealógica em Prolog. O programa permite consultar músicos que tocam um instrumento específico, músicos de uma banda que tocam um instrumento específico, consultar o instrumento e banda de um músico, além de adicionar novos músicos à base de dados."
+        }
+    ]
+}
